@@ -3,15 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Google_Search_Operator_Filtration.Google_Search_001">
+      <class name="Google_Search_Operator_Filtration.Google_Search_003_companyFilter">
         <methods>
-          <include name="deleteExcelIfNoSheet"/>
           <include name="browseropen"/>
           <include name="Fetchdata"/>
-          <include name="analyseURLs" invocation-numbers="3 5"/>
+          <include name="analyseURLs"/>
           <include name="signOut"/>
         </methods>
-      </class> <!-- Google_Search_Operator_Filtration.Google_Search_001 -->
+      </class> <!-- Google_Search_Operator_Filtration.Google_Search_003_companyFilter -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

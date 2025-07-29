@@ -1,0 +1,621 @@
+2025-07-29 16:47:44,283 INFO  Google_Search_003_companyFilter - URL Entered
+2025-07-29 16:47:58,916 INFO  Google_Search_003_companyFilter - 2025.07.29.16.47.41 - Excel file created successfully!
+2025-07-29 16:47:58,937 INFO  Google_Search_003_companyFilter - Total page for the query is - 10
+2025-07-29 16:48:04,771 INFO  Google_Search_003_companyFilter - The page number is - 1
+2025-07-29 16:48:04,789 INFO  Google_Search_003_companyFilter - Total Link Count is - 10
+2025-07-29 16:48:05,062 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-trident-marketing-anglia-ltd-4274584019
+2025-07-29 16:48:05,117 INFO  Google_Search_003_companyFilter - Data written at row index: 0
+2025-07-29 16:48:05,206 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-fac-designs-4076977404
+2025-07-29 16:48:05,236 INFO  Google_Search_003_companyFilter - Data written at row index: 1
+2025-07-29 16:48:05,315 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-it-contractor-at-free-work-uk-4255326456
+2025-07-29 16:48:05,352 INFO  Google_Search_003_companyFilter - Data written at row index: 2
+2025-07-29 16:48:05,424 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-the-dev-hub-4265153354
+2025-07-29 16:48:05,463 INFO  Google_Search_003_companyFilter - Data written at row index: 3
+2025-07-29 16:48:05,539 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-matched-4256734156
+2025-07-29 16:48:05,573 INFO  Google_Search_003_companyFilter - Data written at row index: 4
+2025-07-29 16:48:05,634 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-digital-waffle-4270242852
+2025-07-29 16:48:05,666 INFO  Google_Search_003_companyFilter - Data written at row index: 5
+2025-07-29 16:48:05,750 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-companion-group-4239069267
+2025-07-29 16:48:05,786 INFO  Google_Search_003_companyFilter - Data written at row index: 6
+2025-07-29 16:48:05,858 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-hirenza-4270405750
+2025-07-29 16:48:05,888 INFO  Google_Search_003_companyFilter - Data written at row index: 7
+2025-07-29 16:48:05,958 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-orange-4260472580
+2025-07-29 16:48:05,991 INFO  Google_Search_003_companyFilter - Data written at row index: 8
+2025-07-29 16:48:06,057 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-sensor-tower-4269807818
+2025-07-29 16:48:06,091 INFO  Google_Search_003_companyFilter - Data written at row index: 9
+2025-07-29 16:48:13,512 INFO  Google_Search_003_companyFilter - The page number is - 2
+2025-07-29 16:48:13,531 INFO  Google_Search_003_companyFilter - Total Link Count is - 10
+2025-07-29 16:48:13,616 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-hirenza-4268942982
+2025-07-29 16:48:13,742 INFO  Google_Search_003_companyFilter - Data written at row index: 10
+2025-07-29 16:48:13,866 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-php-at-ache-4248377450
+2025-07-29 16:48:13,899 INFO  Google_Search_003_companyFilter - Data written at row index: 11
+2025-07-29 16:48:13,977 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-global-relay-4271817259
+2025-07-29 16:48:14,007 INFO  Google_Search_003_companyFilter - Data written at row index: 12
+2025-07-29 16:48:14,079 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-herd-digital-4271187036
+2025-07-29 16:48:14,110 INFO  Google_Search_003_companyFilter - Data written at row index: 13
+2025-07-29 16:48:14,164 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-designer-at-aej-consulting-ltd-4275585311
+2025-07-29 16:48:14,198 INFO  Google_Search_003_companyFilter - Data written at row index: 14
+2025-07-29 16:48:14,259 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-twine-4264300634
+2025-07-29 16:48:14,288 INFO  Google_Search_003_companyFilter - Data written at row index: 15
+2025-07-29 16:48:14,340 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-connexa-4226720848
+2025-07-29 16:48:14,365 INFO  Google_Search_003_companyFilter - Data written at row index: 16
+2025-07-29 16:48:14,423 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-edgewell-development-4269694390
+2025-07-29 16:48:14,451 INFO  Google_Search_003_companyFilter - Data written at row index: 17
+2025-07-29 16:48:14,512 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-searchability%C2%AE-4273694398
+2025-07-29 16:48:14,535 INFO  Google_Search_003_companyFilter - Data written at row index: 18
+2025-07-29 16:48:14,584 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-we-make-change-4267742774
+2025-07-29 16:48:14,610 INFO  Google_Search_003_companyFilter - Data written at row index: 19
+2025-07-29 16:48:21,799 INFO  Google_Search_003_companyFilter - The page number is - 3
+2025-07-29 16:48:21,828 INFO  Google_Search_003_companyFilter - Total Link Count is - 10
+2025-07-29 16:48:21,912 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-tm-forum-4215847550
+2025-07-29 16:48:21,999 INFO  Google_Search_003_companyFilter - Data written at row index: 20
+2025-07-29 16:48:22,091 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-thrill-circle-4127659677
+2025-07-29 16:48:22,116 INFO  Google_Search_003_companyFilter - Data written at row index: 21
+2025-07-29 16:48:22,167 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-volunteasy-4264592656
+2025-07-29 16:48:22,192 INFO  Google_Search_003_companyFilter - Data written at row index: 22
+2025-07-29 16:48:22,245 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-reed-4204959052
+2025-07-29 16:48:22,273 INFO  Google_Search_003_companyFilter - Data written at row index: 23
+2025-07-29 16:48:22,327 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-unity-online%E2%84%A2-4153160726
+2025-07-29 16:48:22,351 INFO  Google_Search_003_companyFilter - Data written at row index: 24
+2025-07-29 16:48:22,401 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-tietalent-4262712129
+2025-07-29 16:48:22,424 INFO  Google_Search_003_companyFilter - Data written at row index: 25
+2025-07-29 16:48:22,477 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-wstech-zone-uk-4254145848
+2025-07-29 16:48:22,499 INFO  Google_Search_003_companyFilter - Data written at row index: 26
+2025-07-29 16:48:22,545 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-radius-4215137003
+2025-07-29 16:48:22,567 INFO  Google_Search_003_companyFilter - Data written at row index: 27
+2025-07-29 16:48:22,612 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-x4-technology-4256449603
+2025-07-29 16:48:22,631 INFO  Google_Search_003_companyFilter - Data written at row index: 28
+2025-07-29 16:48:22,679 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-trial-at-strot-net-4207844864
+2025-07-29 16:48:22,702 INFO  Google_Search_003_companyFilter - Data written at row index: 29
+2025-07-29 16:48:24,796 INFO  Google_Search_003_companyFilter - The page number is - 4
+2025-07-29 16:48:24,835 INFO  Google_Search_003_companyFilter - Total Link Count is - 10
+2025-07-29 16:48:24,866 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-technology-online-group-4235965427
+2025-07-29 16:48:24,891 INFO  Google_Search_003_companyFilter - Data written at row index: 30
+2025-07-29 16:48:24,957 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-dermamedical-4259478824
+2025-07-29 16:48:24,994 INFO  Google_Search_003_companyFilter - Data written at row index: 31
+2025-07-29 16:48:25,105 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-ste-services-ltd-4195055936
+2025-07-29 16:48:25,132 INFO  Google_Search_003_companyFilter - Data written at row index: 32
+2025-07-29 16:48:25,186 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-digital-rewards-group-ltd-4268329077
+2025-07-29 16:48:25,221 INFO  Google_Search_003_companyFilter - Data written at row index: 33
+2025-07-29 16:48:25,270 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-alpha-associates-recruitment-4234097988
+2025-07-29 16:48:25,298 INFO  Google_Search_003_companyFilter - Data written at row index: 34
+2025-07-29 16:48:25,350 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-xyz-4239364176
+2025-07-29 16:48:25,373 INFO  Google_Search_003_companyFilter - Data written at row index: 35
+2025-07-29 16:48:25,423 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-canonical-4182144273
+2025-07-29 16:48:25,443 INFO  Google_Search_003_companyFilter - Data written at row index: 36
+2025-07-29 16:48:25,485 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-we-are-seed-digital-4261403463
+2025-07-29 16:48:25,506 INFO  Google_Search_003_companyFilter - Data written at row index: 37
+2025-07-29 16:48:25,554 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-online-property-co-uk-4264296370
+2025-07-29 16:48:25,576 INFO  Google_Search_003_companyFilter - Data written at row index: 38
+2025-07-29 16:48:25,616 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-signet-recruitment-and-retention-4187276928
+2025-07-29 16:48:25,640 INFO  Google_Search_003_companyFilter - Data written at row index: 39
+2025-07-29 16:48:27,983 INFO  Google_Search_003_companyFilter - The page number is - 5
+2025-07-29 16:48:28,007 INFO  Google_Search_003_companyFilter - Total Link Count is - 10
+2025-07-29 16:48:28,078 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-wiraa-4249641066
+2025-07-29 16:48:28,096 INFO  Google_Search_003_companyFilter - Data written at row index: 40
+2025-07-29 16:48:28,134 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-we-make-change-4232752803
+2025-07-29 16:48:28,154 INFO  Google_Search_003_companyFilter - Data written at row index: 41
+2025-07-29 16:48:28,220 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-herd-digital-4249080836
+2025-07-29 16:48:28,251 INFO  Google_Search_003_companyFilter - Data written at row index: 42
+2025-07-29 16:48:28,303 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-the-traders-world-4249034583
+2025-07-29 16:48:28,324 INFO  Google_Search_003_companyFilter - Data written at row index: 43
+2025-07-29 16:48:28,372 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-front-end-at-lands-%E2%80%8B-end-4249702820
+2025-07-29 16:48:28,396 INFO  Google_Search_003_companyFilter - Data written at row index: 44
+2025-07-29 16:48:28,470 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://in.linkedin.com/jobs/view/web-developer-at-radancy-united-kingdom-4208689441
+2025-07-29 16:48:28,501 INFO  Google_Search_003_companyFilter - Data written at row index: 45
+2025-07-29 16:48:28,575 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-k3-capital-group-4228789921
+2025-07-29 16:48:28,621 INFO  Google_Search_003_companyFilter - Data written at row index: 46
+2025-07-29 16:48:28,719 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-wix-at-we-make-change-4242532799
+2025-07-29 16:48:28,761 INFO  Google_Search_003_companyFilter - Data written at row index: 47
+2025-07-29 16:48:28,876 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-rn-jobforce-4231385208
+2025-07-29 16:48:28,900 INFO  Google_Search_003_companyFilter - Data written at row index: 48
+2025-07-29 16:48:28,947 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-106-recruitment-4229819261
+2025-07-29 16:48:28,972 INFO  Google_Search_003_companyFilter - Data written at row index: 49
+2025-07-29 16:48:31,546 INFO  Google_Search_003_companyFilter - The page number is - 6
+2025-07-29 16:48:31,568 INFO  Google_Search_003_companyFilter - Total Link Count is - 10
+2025-07-29 16:48:31,615 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-outlier-4198770189
+2025-07-29 16:48:31,641 INFO  Google_Search_003_companyFilter - Data written at row index: 50
+2025-07-29 16:48:31,687 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-searchability%C2%AE-4231512454
+2025-07-29 16:48:31,710 INFO  Google_Search_003_companyFilter - Data written at row index: 51
+2025-07-29 16:48:31,748 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-wordpress-webflow-at-just-chill-4215370679
+2025-07-29 16:48:31,766 INFO  Google_Search_003_companyFilter - Data written at row index: 52
+2025-07-29 16:48:31,810 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-tmc-strategic-communications-4179504093
+2025-07-29 16:48:31,832 INFO  Google_Search_003_companyFilter - Data written at row index: 53
+2025-07-29 16:48:31,873 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-uk-apprenticeship-at-online-property-co-uk-4219069059
+2025-07-29 16:48:31,894 INFO  Google_Search_003_companyFilter - Data written at row index: 54
+2025-07-29 16:48:31,937 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://www.linkedin.com/jobs/view/web-developer-at-micro1-4147662527
+2025-07-29 16:48:31,958 INFO  Google_Search_003_companyFilter - Data written at row index: 55
+2025-07-29 16:48:32,004 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/informatica-developer-jobs
+2025-07-29 16:48:32,031 INFO  Google_Search_003_companyFilter - Data written at row index: 56
+2025-07-29 16:48:32,082 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-ahti-interiors-4249154991
+2025-07-29 16:48:32,108 INFO  Google_Search_003_companyFilter - Data written at row index: 57
+2025-07-29 16:48:32,167 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://www.linkedin.com/jobs/view/web-developer-at-canonical-2948680713
+2025-07-29 16:48:32,194 INFO  Google_Search_003_companyFilter - Data written at row index: 58
+2025-07-29 16:48:32,246 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://www.linkedin.com/jobs/view/web-developer-at-tree-top-staffing-llc-4137538303
+2025-07-29 16:48:32,270 INFO  Google_Search_003_companyFilter - Data written at row index: 59
+2025-07-29 16:48:34,687 INFO  Google_Search_003_companyFilter - The page number is - 7
+2025-07-29 16:48:34,704 INFO  Google_Search_003_companyFilter - Total Link Count is - 10
+2025-07-29 16:48:34,764 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-sr2-socially-responsible-recruitment-certified-b-corporation%E2%84%A2-4270185748
+2025-07-29 16:48:34,789 INFO  Google_Search_003_companyFilter - Data written at row index: 60
+2025-07-29 16:48:34,895 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://www.linkedin.com/jobs/view/web-developer-ai-code-reviewer-german-speaker-at-micro1-4138066584
+2025-07-29 16:48:34,937 INFO  Google_Search_003_companyFilter - Data written at row index: 61
+2025-07-29 16:48:35,025 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-anything-headless-cms-experts-4264578818
+2025-07-29 16:48:35,049 INFO  Google_Search_003_companyFilter - Data written at row index: 62
+2025-07-29 16:48:35,095 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-mid-level-at-reculture-4268580742
+2025-07-29 16:48:35,119 INFO  Google_Search_003_companyFilter - Data written at row index: 63
+2025-07-29 16:48:35,159 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://www.linkedin.com/jobs/view/web-developer-at-micro1-4088886822
+2025-07-29 16:48:35,174 INFO  Google_Search_003_companyFilter - Data written at row index: 64
+2025-07-29 16:48:35,221 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-talent-pool-at-zeak-labs-4270135266
+2025-07-29 16:48:35,243 INFO  Google_Search_003_companyFilter - Data written at row index: 65
+2025-07-29 16:48:35,287 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-kimiyi-ai-4237090833
+2025-07-29 16:48:35,312 INFO  Google_Search_003_companyFilter - Data written at row index: 66
+2025-07-29 16:48:35,363 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-kinetic-4262659474
+2025-07-29 16:48:35,391 INFO  Google_Search_003_companyFilter - Data written at row index: 67
+2025-07-29 16:48:35,441 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-co-founder-at-comfortlytravel-4139233592
+2025-07-29 16:48:35,465 INFO  Google_Search_003_companyFilter - Data written at row index: 68
+2025-07-29 16:48:35,515 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-argus-vision-b-v-4265299287
+2025-07-29 16:48:35,537 INFO  Google_Search_003_companyFilter - Data written at row index: 69
+2025-07-29 16:48:37,810 INFO  Google_Search_003_companyFilter - The page number is - 8
+2025-07-29 16:48:37,821 INFO  Google_Search_003_companyFilter - Total Link Count is - 10
+2025-07-29 16:48:37,863 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-tietalent-4260823830
+2025-07-29 16:48:37,883 INFO  Google_Search_003_companyFilter - Data written at row index: 70
+2025-07-29 16:48:37,931 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-radius-4225735278
+2025-07-29 16:48:37,953 INFO  Google_Search_003_companyFilter - Data written at row index: 71
+2025-07-29 16:48:38,013 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-tietalent-4275259200
+2025-07-29 16:48:38,036 INFO  Google_Search_003_companyFilter - Data written at row index: 72
+2025-07-29 16:48:38,090 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-outlier-4198766419
+2025-07-29 16:48:38,127 INFO  Google_Search_003_companyFilter - Data written at row index: 73
+2025-07-29 16:48:38,196 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://www.linkedin.com/jobs/view/web-developer-ai-code-reviewer-german-speaker-at-micro1-4131134190
+2025-07-29 16:48:38,216 INFO  Google_Search_003_companyFilter - Data written at row index: 74
+2025-07-29 16:48:38,304 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-coffee-design-ltd-4260270317
+2025-07-29 16:48:38,328 INFO  Google_Search_003_companyFilter - Data written at row index: 75
+2025-07-29 16:48:38,393 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-designer-office-based-role-no-hybrid-at-clarity-homecare-4264160717
+2025-07-29 16:48:38,425 INFO  Google_Search_003_companyFilter - Data written at row index: 76
+2025-07-29 16:48:38,482 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://www.linkedin.com/jobs/view/web-developer-at-micro1-4098727544
+2025-07-29 16:48:38,505 INFO  Google_Search_003_companyFilter - Data written at row index: 77
+2025-07-29 16:48:38,550 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-and-design-intership-at-sam-control-4255199257
+2025-07-29 16:48:38,572 INFO  Google_Search_003_companyFilter - Data written at row index: 78
+2025-07-29 16:48:38,639 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-react-django-at-steele-rose-limited-4270275537
+2025-07-29 16:48:38,670 INFO  Google_Search_003_companyFilter - Data written at row index: 79
+2025-07-29 16:48:40,965 INFO  Google_Search_003_companyFilter - The page number is - 9
+2025-07-29 16:48:40,977 INFO  Google_Search_003_companyFilter - Total Link Count is - 10
+2025-07-29 16:48:41,049 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-wordpress-html-css-php-javascript-mysql-at-xpertise-recruitment-4266713355
+2025-07-29 16:48:41,106 INFO  Google_Search_003_companyFilter - Data written at row index: 80
+2025-07-29 16:48:41,150 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-tietalent-4275251499
+2025-07-29 16:48:41,172 INFO  Google_Search_003_companyFilter - Data written at row index: 81
+2025-07-29 16:48:41,215 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://www.linkedin.com/jobs/view/web-developer-at-micro1-4130251870
+2025-07-29 16:48:41,244 INFO  Google_Search_003_companyFilter - Data written at row index: 82
+2025-07-29 16:48:41,289 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/water-resources-data-tools-developer-modeller-31453-at-environment-agency-4273294638
+2025-07-29 16:48:41,306 INFO  Google_Search_003_companyFilter - Data written at row index: 83
+2025-07-29 16:48:41,343 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-intern-at-zygotelink-4265742234
+2025-07-29 16:48:41,365 INFO  Google_Search_003_companyFilter - Data written at row index: 84
+2025-07-29 16:48:41,418 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-tietalent-4245860168
+2025-07-29 16:48:41,444 INFO  Google_Search_003_companyFilter - Data written at row index: 85
+2025-07-29 16:48:41,499 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://www.linkedin.com/jobs/view/web-developer-ai-code-reviewer-german-speaker-at-micro1-4163340479
+2025-07-29 16:48:41,520 INFO  Google_Search_003_companyFilter - Data written at row index: 86
+2025-07-29 16:48:41,564 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-digitalb-4128042850
+2025-07-29 16:48:41,581 INFO  Google_Search_003_companyFilter - Data written at row index: 87
+2025-07-29 16:48:41,614 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/implementation-engineer-at-clearcourse-4261617327
+2025-07-29 16:48:41,633 INFO  Google_Search_003_companyFilter - Data written at row index: 88
+2025-07-29 16:48:41,683 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - https://uk.linkedin.com/jobs/view/web-developer-at-aspurian-4249434068
+2025-07-29 16:48:41,713 INFO  Google_Search_003_companyFilter - Data written at row index: 89
+2025-07-29 16:48:43,271 INFO  Google_Search_003_companyFilter - Excel file has sheets, not deleted.
+2025-07-29 16:48:43,298 INFO  Google_Search_003_companyFilter - 2025.07.29.16.47.41-Company Details - Excel file created successfully!
+2025-07-29 16:48:47,836 INFO  Google_Search_003_companyFilter - Username Entered
+2025-07-29 16:48:47,970 INFO  Google_Search_003_companyFilter - password Entered
+2025-07-29 16:48:52,838 INFO  Google_Search_003_companyFilter - Sign In clicked
+2025-07-29 16:48:53,596 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - Trident Marketing Anglia Ltd, https://www.linkedin.com/company/trident-marketing-anglia-ltd/life
+2025-07-29 16:48:53,610 INFO  Google_Search_003_companyFilter - Data written at row index: 1, columns 1 & 2
+2025-07-29 16:48:56,229 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:48:59,813 INFO  Google_Search_003_companyFilter - profileDetail - Richard Pearce
+Trident Marketing offers a complete Marketing service: Print, Graphic Design, CGI, Signage, Advertising & Exhibitions
+2025-07-29 16:48:59,831 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/richardjpearce?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAASJeZYBsOKtIKq5EwVYqpBTf58dA6Lahss
+2025-07-29 16:49:07,525 INFO  Google_Search_003_companyFilter - No CEO Profile found for this company
+2025-07-29 16:49:15,123 INFO  Google_Search_003_companyFilter - CTO Profile not found for this company
+2025-07-29 16:49:31,607 INFO  Google_Search_003_companyFilter - No Company Profile is found
+2025-07-29 16:49:36,610 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - Free-Work UK, https://www.linkedin.com/company/free-work-uk/life
+2025-07-29 16:49:36,622 INFO  Google_Search_003_companyFilter - Data written at row index: 2, columns 1 & 2
+2025-07-29 16:49:39,614 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:49:43,695 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+CEO of Rocky Messissi LTD T/A Contractor UK
+2025-07-29 16:49:43,708 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:49:47,767 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+CEO of Rocky Messissi LTD T/A Contractor UK
+2025-07-29 16:49:47,781 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/olivier-martin-82190a2?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAB9lBkBYym5u1Zrs64bR8STvEXNI8nwT4o
+2025-07-29 16:49:47,827 INFO  Google_Search_003_companyFilter - profileDetail - Olivier MARTIN
+CEO @ Free-Work Group, Connecting Tech Talents in Europe
+2025-07-29 16:49:47,842 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:49:55,509 INFO  Google_Search_003_companyFilter - CTO Profile not found for this company
+2025-07-29 16:50:00,621 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - The Dev Hub, https://www.linkedin.com/company/thedevhub/life
+2025-07-29 16:50:00,636 INFO  Google_Search_003_companyFilter - Data written at row index: 4, columns 1 & 2
+2025-07-29 16:50:02,702 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:50:05,155 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+eCommerce Web Development (Shopify & Magento) Talent Partner | Co-Owner
+2025-07-29 16:50:05,164 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:50:13,008 INFO  Google_Search_003_companyFilter - No CEO Profile found for this company
+2025-07-29 16:50:20,632 INFO  Google_Search_003_companyFilter - CTO Profile not found for this company
+2025-07-29 16:50:24,968 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - Matched , https://www.linkedin.com/company/matchedgroup/life
+2025-07-29 16:50:25,008 INFO  Google_Search_003_companyFilter - Data written at row index: 5, columns 1 & 2
+2025-07-29 16:50:27,379 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:50:34,537 INFO  Google_Search_003_companyFilter - No Founder Profile found for this company
+2025-07-29 16:50:42,153 INFO  Google_Search_003_companyFilter - No CEO Profile found for this company
+2025-07-29 16:50:45,592 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Director | Women in Technology | Helping Build IT Technical Teams
+2025-07-29 16:50:45,600 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:50:50,505 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - Digital Waffle, https://www.linkedin.com/company/digitalwaffle/life
+2025-07-29 16:50:50,514 INFO  Google_Search_003_companyFilter - Data written at row index: 6, columns 1 & 2
+2025-07-29 16:50:52,469 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:50:55,900 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Co-Founder at Digital Waffle
+2025-07-29 16:50:55,916 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/harry-griffiths1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABW3gnMBMW80Wyn48VeYz22pDVXcdmNJjtc
+2025-07-29 16:50:55,965 INFO  Google_Search_003_companyFilter - profileDetail - Harry Griffiths
+3rd+ degree connection
+· 3rd
+Co-Founder @ Digital Waffle - The go-to partner when scaling your team within Tech, Digital, Marketing & Data - without the usual bullsh*t.
+2025-07-29 16:50:55,982 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/andrewdavidward?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACStiABRMGoMujpoO2McAysoZ6yF5Sos04
+2025-07-29 16:50:56,031 INFO  Google_Search_003_companyFilter - profileDetail - Andrew Ward
+3rd+ degree connection
+· 3rd
+Co-Founder of Digital Waffle & Intuch - We build Tech, Digital & Marketing teams without the usually associated BS 🔥
+2025-07-29 16:50:56,046 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:51:03,899 INFO  Google_Search_003_companyFilter - No CEO Profile found for this company
+2025-07-29 16:51:11,506 INFO  Google_Search_003_companyFilter - CTO Profile not found for this company
+2025-07-29 16:51:16,707 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - Companion Group, https://www.linkedin.com/company/companion-group-ltd/life
+2025-07-29 16:51:16,721 INFO  Google_Search_003_companyFilter - Data written at row index: 9, columns 1 & 2
+2025-07-29 16:51:19,304 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:51:24,373 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Co-Founder
+2025-07-29 16:51:24,426 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/liam-brennan-1454a84a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAplMMUB9CVKQJYRz5xjwm55ZoRHvXNqryA
+2025-07-29 16:51:24,647 INFO  Google_Search_003_companyFilter - profileDetail - Liam Brennan
+3rd+ degree connection
+· 3rd
+Building Live Service Games
+2025-07-29 16:51:24,705 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/markus-schneider-78b44619?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAPNcNsBeI-Os37C1kDo4NFAP5Nxj2P3WM0
+2025-07-29 16:51:24,783 INFO  Google_Search_003_companyFilter - profileDetail - Markus Schneider
+3rd+ degree connection
+· 3rd
+Every great idea just needs "Momentum" to take off.
+2025-07-29 16:51:24,834 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/renerieck?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAKp9TwBVcGmH6C6eQ0c9s9oi_DG1IVkoz8
+2025-07-29 16:51:24,938 INFO  Google_Search_003_companyFilter - profileDetail - René Rieck
+3rd+ degree connection
+· 3rd
+Experienced and creative Product Lead with an entrepreneurial mindset and background.
+2025-07-29 16:51:24,969 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/lucianonooijen?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABi6B8oBCr4kxC2DaYHLQ9LjrBhonMJOAbw
+2025-07-29 16:51:25,040 INFO  Google_Search_003_companyFilter - profileDetail - Luciano Nooijen
+3rd+ degree connection
+· 3rd
+Lead software engineer
+2025-07-29 16:51:25,063 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:51:25,115 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Senior Project Manager | Senior Producer | Client Relationship Manager | Companion Group | Mental Health First Aider
+2025-07-29 16:51:25,136 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:51:25,203 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Senior Technical Designer - Companion Group
+2025-07-29 16:51:25,218 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:51:29,810 INFO  Google_Search_003_companyFilter - profileDetail - Vitor D.
+3rd+ degree connection
+· 3rd
+Cofounder & CRO Companion Group | Ex-Improbable | Co-Development | Outsourcing | Online Multiplayer | Live Services | Business Development | Angel Investor (Gaming)
+2025-07-29 16:51:29,823 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/vitordemagalhaes?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAnfQq4BMzGMuuHo-X_Bl0Vk15uVw3uVPBo
+2025-07-29 16:51:29,859 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+--
+2025-07-29 16:51:29,874 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/renerieck?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAKp9TwBVcGmH6C6eQ0c9s9oi_DG1IVkoz8
+2025-07-29 16:51:29,909 INFO  Google_Search_003_companyFilter - profileDetail - René Rieck
+3rd+ degree connection
+· 3rd
+Experienced and creative Product Lead with an entrepreneurial mindset and background.
+2025-07-29 16:51:29,924 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/markus-schneider-78b44619?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAPNcNsBeI-Os37C1kDo4NFAP5Nxj2P3WM0
+2025-07-29 16:51:29,967 INFO  Google_Search_003_companyFilter - profileDetail - Markus Schneider
+3rd+ degree connection
+· 3rd
+Every great idea just needs "Momentum" to take off.
+2025-07-29 16:51:29,986 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/companion-charlie?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADtJwLYBy-ztSgOETjj0ByHAtQ16xEupK7o
+2025-07-29 16:51:30,038 INFO  Google_Search_003_companyFilter - profileDetail - Charles Mullins
+3rd+ degree connection
+· 3rd
+Talent Acquisition Lead
+2025-07-29 16:51:30,051 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:51:34,118 INFO  Google_Search_003_companyFilter - profileDetail - Jim Umstot
+3rd+ degree connection
+· 3rd
+Cofounder & CTO
+2025-07-29 16:51:34,151 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/jim-umstot-0bb09b45?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlx888BMAjKbJjvGkMbWgHdkBfgerUmMGE
+2025-07-29 16:51:34,174 INFO  Google_Search_003_companyFilter - profileDetail - Luciano Nooijen
+3rd+ degree connection
+· 3rd
+Lead software engineer
+2025-07-29 16:51:34,207 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/lucianonooijen?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABi6B8oBCr4kxC2DaYHLQ9LjrBhonMJOAbw
+2025-07-29 16:51:34,224 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+VP Online Services
+2025-07-29 16:51:34,260 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/liam-brennan-1454a84a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAplMMUB9CVKQJYRz5xjwm55ZoRHvXNqryA
+2025-07-29 16:51:34,288 INFO  Google_Search_003_companyFilter - profileDetail - Liam Brennan
+3rd+ degree connection
+· 3rd
+Building Live Service Games
+2025-07-29 16:51:34,299 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:51:38,942 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - Hirenza, https://www.linkedin.com/company/hirenza-pvt-ltd/life
+2025-07-29 16:51:38,961 INFO  Google_Search_003_companyFilter - Data written at row index: 16, columns 1 & 2
+2025-07-29 16:51:41,275 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:51:48,444 INFO  Google_Search_003_companyFilter - No Founder Profile found for this company
+2025-07-29 16:51:56,230 INFO  Google_Search_003_companyFilter - No CEO Profile found for this company
+2025-07-29 16:52:03,805 INFO  Google_Search_003_companyFilter - CTO Profile not found for this company
+2025-07-29 16:52:09,027 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - ORange, https://www.linkedin.com/company/orangenyc/life
+2025-07-29 16:52:09,037 INFO  Google_Search_003_companyFilter - Data written at row index: 17, columns 1 & 2
+2025-07-29 16:52:11,356 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:52:18,159 INFO  Google_Search_003_companyFilter - No Founder Profile found for this company
+2025-07-29 16:52:21,870 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Executive Assistant to CEO at ORange
+2025-07-29 16:52:21,878 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:52:21,910 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Ceo at Orange
+2025-07-29 16:52:21,917 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:52:29,643 INFO  Google_Search_003_companyFilter - CTO Profile not found for this company
+2025-07-29 16:52:33,829 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - Sensor Tower, https://www.linkedin.com/company/sensor-tower/life
+2025-07-29 16:52:33,842 INFO  Google_Search_003_companyFilter - Data written at row index: 19, columns 1 & 2
+2025-07-29 16:52:38,228 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:52:43,526 INFO  Google_Search_003_companyFilter - profileDetail - Ryan Parker
+Software Development Engineer
+2025-07-29 16:52:43,540 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/ryanisparker?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABa6mXUBVxAFqkVRSbwYcq6BgcIlwn1wZjs
+2025-07-29 16:52:43,577 INFO  Google_Search_003_companyFilter - profileDetail - Zhen A.
+3rd+ degree connection
+· 3rd
+Empowering leading brands to make data driven decisions
+2025-07-29 16:52:43,589 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/zhen-a-336bbb116?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB0CqxoBIO_b9itPWKOiLxfZRxDc9UMobvY
+2025-07-29 16:52:43,625 INFO  Google_Search_003_companyFilter - profileDetail - Jeff Parks
+3rd+ degree connection
+· 3rd
+Co-Founder and Managing Partner at Riverwood Capital
+2025-07-29 16:52:43,640 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/jeff-parks?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAeKJUBHnbr74D0GRGHfVo6aGM8IZylALU
+2025-07-29 16:52:43,677 INFO  Google_Search_003_companyFilter - profileDetail - Kirill Razumovskiy
+3rd+ degree connection
+· 3rd
+GM, Playliner
+2025-07-29 16:52:43,697 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/kirill-razumovskiy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA5oQN0BPjLqSazTZhj_j5jA7ibRM0KIzM8
+2025-07-29 16:52:43,734 INFO  Google_Search_003_companyFilter - profileDetail - Deven Goldfarb Pirro
+3rd+ degree connection
+· 3rd
+I optimize marketing and boost revenue I Agency Partner | Boy Mom and Expert Snack Negotiator
+2025-07-29 16:52:43,751 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/devengoldfarb?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEwfKUBRT-4yM16RoOd2slW0krZ3YOyt3w
+2025-07-29 16:52:43,790 INFO  Google_Search_003_companyFilter - profileDetail - Sarah Grant
+3rd+ degree connection
+· 3rd
+Strategy and Operations Executive | New Product Growth
+2025-07-29 16:52:43,810 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/segrant?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAE-HugBo1g4fTOLBEibV6dGxJcG6jHpLoI
+2025-07-29 16:52:43,852 INFO  Google_Search_003_companyFilter - profileDetail - Sneha Pandey
+3rd+ degree connection
+· 3rd
+Research & Insights | Sensor Tower
+2025-07-29 16:52:43,868 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/sneha-pandey?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACJ-d-IBttJNWnh4fK0inLF1osYAzgmPGeM
+2025-07-29 16:52:43,904 INFO  Google_Search_003_companyFilter - profileDetail - Savio Nguyen
+3rd+ degree connection
+· 3rd
+Head of Partner Marketing @ Sensor Tower | Community Builder
+2025-07-29 16:52:43,919 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/savio-nguyen-b96b65b8?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABkWkmIBFT0DNAiLK-fzTS4znBUQw095bxY
+2025-07-29 16:52:43,955 INFO  Google_Search_003_companyFilter - profileDetail - Gabe Gottlieb
+3rd+ degree connection
+· 3rd
+Board Member at Sensor Tower
+2025-07-29 16:52:43,971 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/gabegottlieb?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAM8LBYBSlwzWTnP2Fxr3Hug936QlbGSagM
+2025-07-29 16:52:44,005 INFO  Google_Search_003_companyFilter - profileDetail - Alexey Malafeev
+3rd+ degree connection
+· 3rd
+Founder at Sensor Tower (We’re hiring world-class Product Managers and Engineers!)
+2025-07-29 16:52:44,021 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/alexey-malafeev-03457227?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAWZsKgBLF8TB6HGJuQqqvhbnSTwSDCWS6I
+2025-07-29 16:52:44,056 INFO  Google_Search_003_companyFilter - profileDetail - Oliver Yeh
+3rd+ degree connection
+· 3rd
+Cofounder at Sensor Tower
+2025-07-29 16:52:44,073 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/oliveryeh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAMLQ0QBqxwZeG7qR_BB-Go_8_6SuudAUlM
+2025-07-29 16:52:44,108 INFO  Google_Search_003_companyFilter - profileDetail - Ivan Takarlikov
+3rd+ degree connection
+· 3rd
+Senior Software Engineer at Sensor Tower
+2025-07-29 16:52:44,125 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/ivan-takarlikov?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABt0FC8BD709Ka9HHE6sPSbaN8EYIIMqCrc
+2025-07-29 16:52:48,759 INFO  Google_Search_003_companyFilter - profileDetail - Tom Cui
+3rd+ degree connection
+· 3rd
+Revenue Growth | CRO @ Sensor Tower
+2025-07-29 16:52:48,773 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/tomcui?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAzsYQUB5PjNhqaZIZNwzSoy8pwRnNYVQz4
+2025-07-29 16:52:48,806 INFO  Google_Search_003_companyFilter - profileDetail - Anthony Bartolacci
+3rd+ degree connection
+· 3rd
+Chief Strategy Officer at Sensor Tower
+2025-07-29 16:52:48,822 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/apbartolacci?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAVwIuYBXryXlWJzHMII9gxuH3cE7u6u1a8
+2025-07-29 16:52:48,857 INFO  Google_Search_003_companyFilter - profileDetail - Monika Mansinghani
+3rd+ degree connection
+· 3rd
+Sales at Sensor Tower || Ex-InMobi || Ex-AppsFlyer
+2025-07-29 16:52:48,872 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/monika-mansinghani-b495ba92?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABOqoOkBs4p_p8hbSOXCchqukXSpNL0_DUQ
+2025-07-29 16:52:48,905 INFO  Google_Search_003_companyFilter - profileDetail - Gabe Gottlieb
+3rd+ degree connection
+· 3rd
+Board Member at Sensor Tower
+2025-07-29 16:52:48,921 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/gabegottlieb?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAM8LBYBSlwzWTnP2Fxr3Hug936QlbGSagM
+2025-07-29 16:52:48,952 INFO  Google_Search_003_companyFilter - profileDetail - Michel Bohn
+3rd+ degree connection
+· 3rd
+Technology Attorney | CLO | CCO
+2025-07-29 16:52:48,964 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/michelbohn?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAADyb7sB7yUTKPO03bYlCZby3hd-JCX_nj8
+2025-07-29 16:52:49,000 INFO  Google_Search_003_companyFilter - profileDetail - Casey Ryan
+3rd+ degree connection
+· 3rd
+People Operations Strategy | Human Resources Leader | Executive Advisor & Business Partner | He/His/Him
+2025-07-29 16:52:49,013 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/caseyryanhr?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABjcoYBNaS7cI0DmxrBaR5XHyP5QnVVa34
+2025-07-29 16:52:49,047 INFO  Google_Search_003_companyFilter - profileDetail - Savio Nguyen
+3rd+ degree connection
+· 3rd
+Head of Partner Marketing @ Sensor Tower | Community Builder
+2025-07-29 16:52:49,061 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/savio-nguyen-b96b65b8?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABkWkmIBFT0DNAiLK-fzTS4znBUQw095bxY
+2025-07-29 16:52:49,096 INFO  Google_Search_003_companyFilter - profileDetail - Karl Kontus
+3rd+ degree connection
+· 3rd
+SVP & GM of Video Game Insights at Sensor Tower | former 2K
+2025-07-29 16:52:49,108 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/karlkontus?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABE_LuIB8TfEqCioK5JmXFfyws-lrYBHQ2k
+2025-07-29 16:52:49,142 INFO  Google_Search_003_companyFilter - profileDetail - Kirill Razumovskiy
+3rd+ degree connection
+· 3rd
+GM, Playliner
+2025-07-29 16:52:49,154 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/kirill-razumovskiy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA5oQN0BPjLqSazTZhj_j5jA7ibRM0KIzM8
+2025-07-29 16:52:49,186 INFO  Google_Search_003_companyFilter - profileDetail - Jeff Parks
+3rd+ degree connection
+· 3rd
+Co-Founder and Managing Partner at Riverwood Capital
+2025-07-29 16:52:49,200 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/jeff-parks?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAeKJUBHnbr74D0GRGHfVo6aGM8IZylALU
+2025-07-29 16:52:49,238 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Email Marketing & Digital Strategy Leader | Marketo Certified | Lead Nurturing Expert | Data-Driven Growth Marketer
+2025-07-29 16:52:49,248 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:52:49,292 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Business Development Representative at Sensor Tower
+2025-07-29 16:52:49,300 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:52:53,361 INFO  Google_Search_003_companyFilter - profileDetail - Kirill Razumovskiy
+3rd+ degree connection
+· 3rd
+GM, Playliner
+2025-07-29 16:52:53,386 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/kirill-razumovskiy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA5oQN0BPjLqSazTZhj_j5jA7ibRM0KIzM8
+2025-07-29 16:52:53,406 INFO  Google_Search_003_companyFilter - profileDetail - Shruti D.
+3rd+ degree connection
+· 3rd
+Program Director At Sensor Tower
+2025-07-29 16:52:53,432 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/shrutidevdhar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAANqygMBd5HP9K4fL2CXDgG9jtddjhpF71U
+2025-07-29 16:52:53,451 INFO  Google_Search_003_companyFilter - profileDetail - Tyler Stone
+3rd+ degree connection
+· 3rd
+Associate Director, Product @ Sensor Tower | Ex-Wayfair
+2025-07-29 16:52:53,475 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/tyler-stone-2a400677?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABAyWhwBAkRN9vep-q3o0kBIV05WmerrwbA
+2025-07-29 16:52:57,915 INFO  Google_Search_003_companyFilter - Duplicate entry in the Mastersheet
+2025-07-29 16:53:02,878 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - ACHE, https://www.linkedin.com/company/ache/life
+2025-07-29 16:53:02,885 INFO  Google_Search_003_companyFilter - Data written at row index: 31, columns 1 & 2
+2025-07-29 16:53:04,870 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:53:11,457 INFO  Google_Search_003_companyFilter - No Founder Profile found for this company
+2025-07-29 16:53:15,004 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Locutora - Comunicadora
+2025-07-29 16:53:15,013 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:22,689 INFO  Google_Search_003_companyFilter - CTO Profile not found for this company
+2025-07-29 16:53:27,320 INFO  Google_Search_003_companyFilter - Data Written in Mastersheet - Global Relay, https://www.linkedin.com/company/global-relay/life
+2025-07-29 16:53:27,330 INFO  Google_Search_003_companyFilter - Data written at row index: 32, columns 1 & 2
+2025-07-29 16:53:30,824 INFO  Google_Search_003_companyFilter - People toggle Clicked
+2025-07-29 16:53:34,025 INFO  Google_Search_003_companyFilter - profileDetail - Tony Kalavanal
+Software Engineer | Founder
+2025-07-29 16:53:34,043 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/tonykalavanal?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACWI_54BS-5RKjjS2awGgDpJ0BMWgplhg_8
+2025-07-29 16:53:34,090 INFO  Google_Search_003_companyFilter - profileDetail - Vlada Gurvich
+Law | Compliance | Supply Chain
+2025-07-29 16:53:34,118 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/vlada-gurvich-049846164?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACdHjLkB0YOqATbA3BBRFbnmKH-7GcffBgA
+2025-07-29 16:53:34,170 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+CEO and Founder at Global Relay - Archiving & Messaging Compliance and eDiscovery
+2025-07-29 16:53:34,197 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/neilchalk?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAJdCFkBpSDgCUngsk4cg3q8HhE9GBkp06Y
+2025-07-29 16:53:34,257 INFO  Google_Search_003_companyFilter - profileDetail - Neil Chalk
+3rd+ degree connection
+· 3rd
+Product development | Technology that connects people
+2025-07-29 16:53:34,286 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/nassoskappa?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEO338BXBc52Xo34BH92NDv_nSxC-oQxBs
+2025-07-29 16:53:34,341 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Service Designer, Design Strategist, and Advocate
+2025-07-29 16:53:34,368 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/emma-parry-35a5351?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABBorYBOZoCcS6BiC1XmuJ02ilrNpYLZPQ
+2025-07-29 16:53:34,447 INFO  Google_Search_003_companyFilter - profileDetail - Nassos Kappa
+3rd+ degree connection
+· 3rd
+Design Leader | Driving Impact Across Product, Brand & Teams
+2025-07-29 16:53:34,466 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:34,529 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Junior DevOps at Global Relay | Co-Founder of Girls That Lift | Public Speaker
+2025-07-29 16:53:34,547 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:34,592 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Senior Software Engineer (iOS)
+2025-07-29 16:53:34,604 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:34,648 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Office Manager at Global Relay NY
+2025-07-29 16:53:34,663 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:34,709 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Software Engineer
+2025-07-29 16:53:34,719 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:34,799 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Enterprise Customer Success Leader at Global Relay | Customer Relationship Management & Business Development
+2025-07-29 16:53:34,812 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:34,853 INFO  Google_Search_003_companyFilter - profileDetail - Emma Parry
+3rd+ degree connection
+· 3rd
+Non-Exec Director | Senior Advisor | Conduct, Culture & Risk | Writer | ESG Advocate | Expert Witness
+2025-07-29 16:53:34,866 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:39,408 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+CEO at Fortitude Sports Management
+2025-07-29 16:53:39,421 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/vlada-gurvich-049846164?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACdHjLkB0YOqATbA3BBRFbnmKH-7GcffBgA
+2025-07-29 16:53:39,453 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Producing reliable software
+2025-07-29 16:53:39,466 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/chris-hasenbein?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA9oUABP-NOonMbchSzIyI-QKXJIkBDGHc
+2025-07-29 16:53:39,495 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Engineering Leader
+2025-07-29 16:53:39,509 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/aviall?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAjkY8BaqxffdFaAN41ImNYfmHVX1hT_iw
+2025-07-29 16:53:39,545 INFO  Google_Search_003_companyFilter - profileDetail - Vlada Gurvich
+Law | Compliance | Supply Chain
+2025-07-29 16:53:39,555 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:39,589 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+CEO and Founder at Global Relay - Archiving & Messaging Compliance and eDiscovery
+2025-07-29 16:53:39,598 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:39,633 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Chief Legal Officer @ Global Relay
+2025-07-29 16:53:39,642 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:39,679 INFO  Google_Search_003_companyFilter - profileDetail - Chris Hasenbein
+3rd+ degree connection
+· 3rd
+FinTech | RegTech | Data Governance | Compliance | Security | AI-LLM-Analytics | Data Protection | Digital Transformation | Chief Revenue Officer (CRO) | Cross Functional Leader | Builder | Coach | SaaS GTM
+2025-07-29 16:53:39,689 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:39,727 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+DBA, IT Systems & Infrastructure Specialist, DevOps, Management
+2025-07-29 16:53:39,737 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:39,776 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Customer Success. Customer Experience. Sales. Growth.
+2025-07-29 16:53:39,787 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:39,824 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Enterprise Project Manager at Global Relay
+2025-07-29 16:53:39,835 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:39,870 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Experienced compliance technology sales
+2025-07-29 16:53:39,879 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:39,915 INFO  Google_Search_003_companyFilter - profileDetail - Alex Viall
+3rd+ degree connection
+· 3rd
+Chief Strategy Officer at Global Relay
+2025-07-29 16:53:39,923 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:44,757 INFO  Google_Search_003_companyFilter - profileDetail - Neil Chalk
+3rd+ degree connection
+· 3rd
+Product development | Technology that connects people
+2025-07-29 16:53:44,787 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/neilchalk?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAJdCFkBpSDgCUngsk4cg3q8HhE9GBkp06Y
+2025-07-29 16:53:44,807 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Software Architect at Global Relay
+2025-07-29 16:53:44,842 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/syedhaq?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABhhkABx6yr5E4xKNDCdBuxi72OiuR8KS8
+2025-07-29 16:53:44,863 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+16+ Yrs Creating iOS Apps | Exploring AI Applications | Licensed Private Pilot
+2025-07-29 16:53:44,889 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/demianturner?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAABWscBXD0bqgRRIsYSILcDGvlb_2tNO_0
+2025-07-29 16:53:44,906 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Software Engineering Manager at Global Relay
+2025-07-29 16:53:44,933 INFO  Google_Search_003_companyFilter - profile link -https://www.linkedin.com/in/ajackman?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAIQ6FIBvmHflDvVfazx41KBdcYszg3UhIY
+2025-07-29 16:53:44,953 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+DBA, IT Systems & Infrastructure Specialist, DevOps, Management
+2025-07-29 16:53:44,960 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:44,991 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Senior Software Engineer at GlobalRelay Inc
+2025-07-29 16:53:44,998 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:45,028 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Senior Level Data Center Operations Management @ Global Relay Communications Inc.
+2025-07-29 16:53:45,037 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:45,067 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Technical Program Manager/Product Manager/Data Engineer/Software Engineer
+2025-07-29 16:53:45,078 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:45,120 INFO  Google_Search_003_companyFilter - profileDetail - Syed Asadul Haq
+3rd+ degree connection
+· 3rd
+Full Stack Test Automation & SQA Specialist
+2025-07-29 16:53:45,127 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:45,155 INFO  Google_Search_003_companyFilter - profileDetail - LinkedIn Member
+Senior Software Engineer at Global Relay
+2025-07-29 16:53:45,162 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:45,201 INFO  Google_Search_003_companyFilter - profileDetail - Demian Turner
+3rd+ degree connection
+· 3rd
+Senior iOS/macOS Developer, Team Lead
+2025-07-29 16:53:45,209 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:45,241 INFO  Google_Search_003_companyFilter - profileDetail - Adam Jackman
+Senior Architect at Global Relay
+2025-07-29 16:53:45,250 INFO  Google_Search_003_companyFilter - Profile link is disabled
+2025-07-29 16:53:59,687 INFO  Google_Search_003_companyFilter - No Company Profile is found

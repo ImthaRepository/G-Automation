@@ -8,8 +8,6 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
@@ -35,15 +33,13 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-import org.testng.annotations.AfterSuite;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.github.dockerjava.core.util.FilePathUtil;
 
-public class Google_Search_001 {
+public class Google_Search_002 {
 	public String getPropertyFileValue(String key) throws FileNotFoundException, IOException {
 		Properties properties = new Properties();
 		properties.load(new FileInputStream(System.getProperty("user.dir") + "\\input.properties"));
@@ -113,8 +109,8 @@ public class Google_Search_001 {
 	@Test(priority = 1)
 	public void Fetchdata() throws InterruptedException, FileNotFoundException, IOException {
 		// driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-		JavascriptExecutor js = (JavascriptExecutor) driver;
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+		
 		WebDriverWait waiting = new WebDriverWait(driver, Duration.ofSeconds(40));
 
 		WebElement SearchField = driver.findElement(By.xpath("//textarea[@aria-label='Search']"));
@@ -182,7 +178,7 @@ public class Google_Search_001 {
 	public void analyseURLs(String URL) throws IOException {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		WebDriverWait waiting = new WebDriverWait(driver, Duration.ofSeconds(5));
-		JavascriptExecutor js = (JavascriptExecutor) driver;
+
 		String filepath=System.getProperty("user.dir") + "\\Company Filtered files\\"+stamp+"-Company Details.xlsx";
 		if (URL.contains("linkedin.com")) {
 		driver.get(URL);
@@ -1179,7 +1175,7 @@ public class Google_Search_001 {
         System.out.println("Column widths auto-fitted successfully!");
     }
 //----------------------------------------------------------------Log File Appender -------------------------------------------------------
-	   public static  Logger logger= Logger.getLogger(Google_Search_001.class);
+	   public static  Logger logger= Logger.getLogger(Google_Search_002.class);
 	   static {
 			    String stamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm").format(new Date());
 		        String logFileName = "logs/" + stamp + "-Company filter Log.log";

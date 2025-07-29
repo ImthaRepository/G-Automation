@@ -8,8 +8,6 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
@@ -35,15 +33,14 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-import org.testng.annotations.AfterSuite;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.github.dockerjava.core.util.FilePathUtil;
 
-public class Google_Search_001 {
+
+public class Google_Search_003_companyFilter {
 	public String getPropertyFileValue(String key) throws FileNotFoundException, IOException {
 		Properties properties = new Properties();
 		properties.load(new FileInputStream(System.getProperty("user.dir") + "\\input.properties"));
@@ -113,8 +110,6 @@ public class Google_Search_001 {
 	@Test(priority = 1)
 	public void Fetchdata() throws InterruptedException, FileNotFoundException, IOException {
 		// driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-		JavascriptExecutor js = (JavascriptExecutor) driver;
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		WebDriverWait waiting = new WebDriverWait(driver, Duration.ofSeconds(40));
 
 		WebElement SearchField = driver.findElement(By.xpath("//textarea[@aria-label='Search']"));
@@ -126,19 +121,23 @@ public class Google_Search_001 {
 			createExcelFile("Company Raw files", stamp);
 			try {
 				int pageElement = driver.findElements(By.xpath("//h1[text()='Page navigation']/parent::div//td//a")).size();
-				
+				System.out.println("Total page for the query is - "+pageElement);
+				logger.info("Total page for the query is - "+pageElement);
 				for (int j = 1; j < pageElement; j++) {
+					driver.findElement(By.xpath("(//h1[text()='Page navigation']/parent::div//td//a)["+j+"]")).click();
+					System.out.println("The page number is - "+ j);
+					logger.info("The page number is - "+ j);
 					int searchResultElement = driver.findElements(By.xpath("//div//h1[text()='Search Results']/parent::div//a"))
 							.size();
 					System.out.println("Total Link Count is - " + searchResultElement);
 					logger.info("Total Link Count is - " + searchResultElement);
-					String filepath = System.getProperty("user.dir") + "\\Company Raw files\\" + stamp + ".xlsx";
+					String filepath = System.getProperty("user.dir") + "\\Company Raw files\\" + stamp+ ".xlsx";
 					for (int i = 1; i <= searchResultElement; i++) {
 						WebElement searchLinksElement = driver
 								.findElement(By.xpath("(//div//h1[text()='Search Results']/parent::div//a)[" + i + "]"));
 						String searchlinks = searchLinksElement.getDomAttribute("href");
 					      
-					    	  writeInMasterSheet("Links", 0, searchlinks, filepath, "Sheet1");
+					    	  writeInTempSheet(filepath, "Sheet1", 0, searchlinks);
 					        } 
 						Thread.sleep(1500);
 					}
@@ -147,6 +146,8 @@ public class Google_Search_001 {
 				deleteExcelIfNoSheets();
 				createExcelFile("Company Filtered files",stamp+"-Company Details");
 			} catch (Exception e) {
+				System.out.println("Total page is 1");
+				logger.info("Total Page is 1");
 				int searchResultElement = driver.findElements(By.xpath("//div//h1[text()='Search Results']/parent::div//a"))
 						.size();
 				System.out.println("Total link count is - " + searchResultElement);
@@ -157,7 +158,7 @@ public class Google_Search_001 {
 							.findElement(By.xpath("(//div//h1[text()='Search Results']/parent::div//a)[" + i + "]"));
 					String searchlinks = searchLinksElement.getDomAttribute("href");
 				
-				    	  writeInMasterSheet("Links", 0, searchlinks, filepath, "Sheet1");
+					writeInTempSheet(filepath, "Sheet1", 0, searchlinks);
 				         
 					
 				}
@@ -182,30 +183,10 @@ public class Google_Search_001 {
 	public void analyseURLs(String URL) throws IOException {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		WebDriverWait waiting = new WebDriverWait(driver, Duration.ofSeconds(5));
-		JavascriptExecutor js = (JavascriptExecutor) driver;
-		String filepath=System.getProperty("user.dir") + "\\Company Filtered files\\"+stamp+"-Company Details.xlsx";
+		String filepath=System.getProperty("user.dir") +"\\Company Filtered files\\"+stamp+"-Company Details.xlsx";
 		if (URL.contains("linkedin.com")) {
 		driver.get(URL);
-		try {
-//			try {
-//				Thread.sleep(1000);
-//				//wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("(//icon[contains(@class,'modal__modal-dismiss-icon')])[1]")));
-//				driver.findElement(By.xpath("(//icon[contains(@class,'modal__modal-dismiss-icon')])[1]")).click();
-//			} catch (Exception e) {
-//				driver.findElement(By.xpath("(//icon[contains(@class,'modal__modal-dismiss-icon')])[2]")).click();
-//			} finally {
-//				System.out.println("Sign In Pop is not available");
-//			}
-//			try {
-//	
-//				//wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("(//icon[contains(@class,'modal__modal-dismiss-icon')])[1]")));
-//				driver.findElement(By.xpath("(//icon[contains(@class,'modal__modal-dismiss-icon')])[3]")).click();
-//			} catch (Exception e) {
-//				driver.findElement(By.xpath("(//icon[contains(@class,'modal__modal-dismiss-icon')])[4]")).click();
-//			} finally {
-//				System.out.println("NO Sign In Pop available");
-//			}
-//			
+		try {			
 			try {
 				 Actions actions = new Actions(driver);
 
@@ -246,7 +227,7 @@ public class Google_Search_001 {
 					By.xpath("//div[contains(@class,'artdeco-card')]//div[contains(@class,'company-name')]//a"));
 			String companyName=compName.getText();
 			String companyURL=compName.getAttribute("href");
-			writeCompanyDatas(filepath, "Sheet1", companyName,companyURL);
+			writeInComMasterSheet("Links",0,1, companyName, companyURL, filepath, "Sheet1");
 			compName.click();
 				
 
@@ -339,7 +320,6 @@ public class Google_Search_001 {
 					WebElement peopleSearchField2 = driver.findElement(By.xpath("//textarea[@id='people-search-keywords']"));
 					
 					peopleSearchField2.sendKeys("CTO",Keys.ENTER);
-					System.out.println("CEO Entered");
 					waiting.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[contains(@class,'org-people-profile-card__profile-info')]")));
 					int profileCount = driver.findElements(By.xpath("//div[contains(@class,'org-people-profile-card__profile-info')]")).size();
 					for (int i = 1; i <= profileCount; i++) {
@@ -471,7 +451,7 @@ public class Google_Search_001 {
 	// ----------------------------------------------Data Provider Code--------------------------------------------------------------------
 	@DataProvider(name = "excelData")
 	public Object[][] getDataFromExcel() throws FileNotFoundException, IOException {
-		String filePath = System.getProperty("user.dir") + "\\Company Raw files\\" + stamp +".xlsx";
+		String filePath = System.getProperty("user.dir") + "\\Company Raw files\\" + stamp+".xlsx";
 		String sheetName = "Sheet1";
 		return readExcelcomData(filePath, sheetName);
 	}
@@ -524,9 +504,8 @@ public class Google_Search_001 {
 	
 
 
-	public static void writeInMasterSheet(String sheetName, int columnNumber, String data, String fileName,
-			String sheetname) throws IOException {
-		File file = new File(System.getProperty("user.dir") + "//Master Sheet.xlsx");
+	public static void writeInTempSheet(String filepath, String sheetName, int columnNumber, String data) throws IOException {
+		File file = new File(filepath);
 		Workbook workbook;
 		Sheet sheet;
 
@@ -555,8 +534,8 @@ public class Google_Search_001 {
 				if (cell != null && cell.getCellType() == CellType.STRING) {
 					if (cell.getStringCellValue().equalsIgnoreCase(data)) {
 						isDuplicate = true;
-						System.out.println("Duplicate entry in the Mastersheet");
-						logger.info("Duplicate entry in the Mastersheet");
+						System.out.println("Duplicate entry in the Temp Sheet");
+						logger.info("Duplicate entry in the Temp Sheet");
 						break;
 					}
 				}
@@ -568,9 +547,8 @@ public class Google_Search_001 {
 			Row newRow = sheet.createRow(lastRowNum + 1);
 			Cell newCell = newRow.createCell(columnNumber);
 			newCell.setCellValue(data);
-			System.out.println("Data Written in Mastersheet - " + data);
-			logger.info("Data Written in Mastersheet - " + data);
-			writeData(fileName, sheetname, data);
+			System.out.println("Data Written in Temp Sheet - " + data);
+			logger.info("Data Written in Temp Sheet - " + data);
 
 		}
 
@@ -581,6 +559,67 @@ public class Google_Search_001 {
 		workbook.close();
 	}
 	
+	
+	public static void writeInComMasterSheet(String sheetName, int column1, int column2, String data1, String data2,
+			String fileName, String targetSheetName) throws IOException {
+		File file = new File(System.getProperty("user.dir") + "//Master_Company_Sheet.xlsx");
+		Workbook workbook;
+		Sheet sheet;
+
+// Load existing workbook or create new one
+		if (file.exists()) {
+			FileInputStream fileInputStream = new FileInputStream(file);
+			workbook = new XSSFWorkbook(fileInputStream);
+			fileInputStream.close();
+		} else {
+			workbook = new XSSFWorkbook();
+		}
+
+// Get or create the sheet
+		sheet = workbook.getSheet(sheetName);
+		if (sheet == null) {
+			sheet = workbook.createSheet(sheetName);
+		}
+
+// Check for duplicate entry across the two columns
+		boolean isDuplicate = false;
+		int lastRowNum = sheet.getLastRowNum();
+		for (int i = 0; i <= lastRowNum; i++) {
+			Row row = sheet.getRow(i);
+			if (row != null) {
+				Cell cell1 = row.getCell(column1);
+				Cell cell2 = row.getCell(column2);
+				if (cell1 != null && cell2 != null && cell1.getCellType() == CellType.STRING
+						&& cell2.getCellType() == CellType.STRING) {
+					if (cell1.getStringCellValue().equalsIgnoreCase(data1)
+							&& cell2.getStringCellValue().equalsIgnoreCase(data2)) {
+						isDuplicate = true;
+						System.out.println("Duplicate entry in the Mastersheet");
+						logger.info("Duplicate entry in the Mastersheet");
+						Assert.fail();
+						break;
+						
+					}
+				}
+			}
+		}
+
+// Write data if not duplicate
+		if (!isDuplicate) {
+			Row newRow = sheet.createRow(lastRowNum + 1);
+			newRow.createCell(column1).setCellValue(data1);
+			newRow.createCell(column2).setCellValue(data2);
+			System.out.println("Data Written in Mastersheet - " + data1 + ", " + data2);
+			logger.info("Data Written in Mastersheet - " + data1 + ", " + data2);
+			writeCompanyDatas(fileName, targetSheetName, data1, data2);
+		}
+
+// Save the file
+		FileOutputStream fileOutputStream = new FileOutputStream(file);
+		workbook.write(fileOutputStream);
+		fileOutputStream.close();
+		workbook.close();
+	}
 	public static void writeCompanyDatas(String fileName, String sheetName, String dataCol1, String dataCol2) {
 	    String filePath = fileName;
 
@@ -1179,7 +1218,7 @@ public class Google_Search_001 {
         System.out.println("Column widths auto-fitted successfully!");
     }
 //----------------------------------------------------------------Log File Appender -------------------------------------------------------
-	   public static  Logger logger= Logger.getLogger(Google_Search_001.class);
+	   public static  Logger logger= Logger.getLogger(Google_Search_003_companyFilter.class);
 	   static {
 			    String stamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm").format(new Date());
 		        String logFileName = "logs/" + stamp + "-Company filter Log.log";
